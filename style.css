@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+ul {   
+    display: table;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
